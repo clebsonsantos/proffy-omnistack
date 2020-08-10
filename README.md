@@ -2,6 +2,14 @@
    <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
 
+![Badge](https://img.shields.io/static/v1?label=NodeJs&message=Interpreter&color=brightgreen)
+![Badge](https://img.shields.io/static/v1?label=Javascript&message=language&color=yellow)
+![Badge](https://img.shields.io/static/v1?label=Typescript&message=Types&color=blue)
+![Badge](https://img.shields.io/static/v1?label=ReactJs&message=Framework&color=blue)
+![Badge](https://img.shields.io/static/v1?label=React-Native&message=Framework&color=lightblue)
+![Badge](https://img.shields.io/static/v1?label=Expo&message=Framework&color=orange)
+
+
 
 > :rocket: Projeto desenvolvido para conectar professores e estudantes, feito durante a na Next Level Week #2 @Rocketseat
 
